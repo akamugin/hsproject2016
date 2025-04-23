@@ -3,43 +3,43 @@ const idols = [
   {
     name:"Jin",
     points:0,
-    img:"/Jin.jpg"
+    img:"Jin.jpg"
   },
   //1
   {
     name:"Suga",
     points:0,
-    img:"/Suga.jpg"
+    img:"Suga.jpg"
   },
   //2
   {
     name:"J-Hope",
     points:0,
-    img:"/Jhope.jpg"
+    img:"Jhope.jpg"
   },
   //3
   {
     name:"RM",
     points:0,
-    img:"/RM.jpg"
+    img:"RM.jpg"
   },
   //4
   {
     name:"Jimin",
     points:0,
-    img:"/Jimin.jpg"
+    img:"Jimin.jpg"
   },
   //5
   {
     name:"V",
     points:0,
-    img:"/V.jpg"
+    img:"V.jpg"
   },
   //6
   {
     name:"Jungkook",
     points:0,
-    img:"/Jungkook.png"
+    img:"Jungkook.png"
   },
 ]; 
 
